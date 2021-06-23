@@ -1,0 +1,40 @@
+header{
+    text-align: center;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    padding: 0px;
+
+
+    /* margin: 10px; */
+    
+}
+
+section{
+    width: 24%;
+    margin: 15px;
+
+}
+
+figure{
+    display: flex;
+    flex-flow: column;
+
+    border: thin #c0c0c0 solid;
+
+    width: 100%;
+    padding: 10px;
+    margin: 0%;
+
+    text-align: center;
+}
+
+figure img{
+    padding-top: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
